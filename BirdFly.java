@@ -27,7 +27,7 @@ class BirdFly
 		Bird bird10=new Bird();
 		Bird bird11=new Bird();
 		Bird bird12=new Bird();
-		Bird bird13=new Bird();
+		Bird bird13java=new Bird();
 	
 	}
 }
