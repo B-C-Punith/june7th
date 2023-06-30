@@ -1,0 +1,182 @@
+1]a, 31
+2]c, 20
+3] a,100
+4]c, 62
+5] a,9
+6]b, K
+7] a,P
+8] d, FR
+9] c, bccab
+10] a,GOV
+11] 2
+12] 25
+13] window
+14] sun
+15] BE
+
+
+
+	Java Test
+	
+1 
+java is a object oriented language and it is platform independent language
+javac is compiler ussed to run java programs and it  is present in the jdk bin,
+
+2.
+jdk is java tool kit that use run it contain jre 
+and java devolopment kit it used to write the programs it contains libraries. 
+jre is the java run time environment the provide environment to run the programs 
+jvm is the java virtual machine it run and exicute the programs and and run the programs but it is a virtual machine it not seen,but it exist.
+
+3.
+Limitations of array
+In array we can store only similer object 
+we can not incres the size of the array 
+We direct initization not possible 
+we able sort the elements 
+
+4.
+class is the keyword and program block of code it can be run also it is blue print
+object it is real world object that can be stored deal some function with it.
+{} is the body of the program
+class punith
+{
+	statement;
+}
+
+5.
+Array is collection similer elements and elements stored in the [] and we can retrivie the elements by the indexes.
+
+6.
+java file 
+java file is collection of code wriiten in java and it an only run in one os where it is written
+class file is bite code genarated in the java compiler and and also it can run in any operating system thats make java platform independent.
+
+7.
+The length of the array 5.
+
+8.
+     public static void main(String [] anything)
+	 {
+	 
+	 }
+	  in the method public is the access specifire the gives access to the chaild class and user
+	  static is the keyword non access spefire that  difines the it staic 
+	  void  it is the return type it always points to the null values 
+	  main is the name of the method 
+	  String[] args is the parametrs declaration
+	  flower brakets are body of the program
+	  
+9.
+	java is object oriented language it is found by the jemes gosly and it use ussed in billions of computers 
+	it is platform independent programing language.it run in any oerating system and it genarate the byte code it so it can run in any platform it contain jvc jvm jre. 
+
+10.
+ Variable is use to store the  refrence and it has 2 typles 
+	local variable 
+	global variable 
+	instance variable
+	local variable is declared in the  specific block and it only used in the only that spefic block only it can access only in side the block only.
+	Global variable it is out side the block it can accses any where in the class so we call where we want also it store the  refrence of the adrees.
+	instance variable is the variable declare in immediatly and use use specific period only.
+ 
+ 11.
+  class variable is the variable declared in the class and it talso a global variable and it can accses any where .
+
+ 12.
+ Data types 
+ It defines what kind of the data can be stored
+ it defines the varible and what kind of data can be stored in the variable 
+ 
+ Types
+ primitives datatypes
+ nonprimitive datatypes
+ 
+ primitives data types like
+ int 
+ it defines integer type of data can be stored in the varible it aloocates the 4 byte memory
+ float
+ it stores the floating values in the variable it allocates 4 byte memory
+ double 
+ it store the ratios and point values in the variable. it allocates 8 byte memory
+ long 
+ it stores the large  value  in the variables and used store values like phonenumbers.
+boolean 
+it stores only 2 values true or false or 1 and 0  it allocate 1 byte 
+short 
+it store the small values and it allocate 2 byte memory
+ char 
+ it stroes the single charecter and it allocates 2 bytes of memory
+
+ Non premitive data types 
+
+ String 
+ It is a non premitive datatype it store the charecters 
+ it is used to store the charecters the values are assigned by "" .
+ 
+ 
+ 13.
+ Features of java
+ java is object oriented programing language
+ it is platform independent language because it genarate the byte code that can run in any platform.
+ it genaretes byte code it can run in any platform
+ it contain jdk jre jvm
+ also it build inlibraries
+ 
+ 
+ 14.
+ Array Types 
+ integer []  it  stores integer valuese 
+ String[] 	it stores the String values
+ byte[]	    it stores the byte values
+ double[]	it stores the long float values 
+ float[]  it stores the floating values 
+ long[] it store the large values
+ 
+ 15.
+ The array is 5 indexes and we are trying to accesing the 6th elements it showes the array error
+ 
+ 16.
+ System.out.println();
+ 
+ it is statement udsed to print the statement 
+ system is the predefined class  
+ out is object 
+ println name of the main
+
+ 17.
+ Double equals used to comparing use
+ eqaules use to initilaztion use
+ 
+ 18.
+ dot operatoer is used invoke the functions
+ 
+ 19.
+ base class of all the class is obejct
+ 
+ 20.
+ public
+ class
+ void
+static 
+int 
+double
+string
+return
+null
+float
+
+  
+  
+ 
+
+
+
+
+
+
+
+
+
+
+
